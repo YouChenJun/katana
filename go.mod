@@ -1,6 +1,6 @@
 module github.com/projectdiscovery/katana
 
-go 1.26
+go 1.26.0
 
 require (
 	github.com/Mzack9999/jsluice v0.0.0-20260306161058-30114a312f98
@@ -21,12 +21,12 @@ require (
 	github.com/projectdiscovery/dsl v0.8.21
 	github.com/projectdiscovery/fastdialer v0.5.20
 	github.com/projectdiscovery/goflags v0.2.1
-	github.com/projectdiscovery/gologger v1.1.72
+	github.com/projectdiscovery/gologger v1.1.73
 	github.com/projectdiscovery/hmap v0.0.102
 	github.com/projectdiscovery/mapcidr v1.1.97
 	github.com/projectdiscovery/ratelimit v0.0.88
 	github.com/projectdiscovery/retryablehttp-go v1.3.26
-	github.com/projectdiscovery/utils v0.11.3
+	github.com/projectdiscovery/utils v0.11.6
 	github.com/projectdiscovery/wappalyzergo v0.3.0
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rs/xid v1.5.0
@@ -85,8 +85,8 @@ require (
 	github.com/felixge/fgprof v0.9.5 // indirect
 	github.com/flier/gohs v1.2.2 // indirect
 	github.com/gaissmai/bart v0.29.0 // indirect
-	github.com/google/go-github/v30 v30.1.0 // indirect
 	github.com/google/go-github/v57 v57.0.0 // indirect
+	github.com/google/go-github/v92 v92.0.0 // indirect
 	github.com/google/go-querystring v1.2.0 // indirect
 	github.com/google/pprof v0.0.0-20250423184734-337e5dd93bb4 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
@@ -94,7 +94,6 @@ require (
 	github.com/gosimple/slug v1.15.0 // indirect
 	github.com/gosimple/unidecode v1.0.1 // indirect
 	github.com/hashicorp/go-version v1.8.0 // indirect
-	github.com/hdm/jarm-go v0.0.7 // indirect
 	github.com/iangcarroll/cookiemonster v1.6.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
@@ -114,6 +113,7 @@ require (
 	github.com/projectdiscovery/blackrock v0.0.2 // indirect
 	github.com/projectdiscovery/gostruct v0.0.2 // indirect
 	github.com/projectdiscovery/govaluate v0.0.0-20260504230327-80320480bb6e // indirect
+	github.com/projectdiscovery/jarm-go v0.0.0-20260910160638-430e2bae86f6 // indirect
 	github.com/projectdiscovery/machineid v0.0.0-20250715113114-c77eb3567582 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
